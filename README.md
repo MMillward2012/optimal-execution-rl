@@ -10,7 +10,7 @@ This repository contains the written materials and code accompanying Matthew Mil
 
 ## Code
 
-- [`optimal_execution/`](optimal_execution/README.md): main dissertation project
-- [`gridworld_example/`](gridworld_example/README.md): supporting reinforcement learning example
+- [`optimal_execution/`](optimal_execution/): main dissertation project
+- [`gridworld_example/`](gridworld_example/): supporting reinforcement learning example
 
 Each code folder has its own README with the relevant details.
