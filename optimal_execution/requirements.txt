@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scipy
+sortedcontainers
+matplotlib
+seaborn
+pyyaml
+pytest
+jupyter
+torch
+tensorboard

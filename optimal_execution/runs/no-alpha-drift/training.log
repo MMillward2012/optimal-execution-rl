@@ -1,0 +1,334 @@
+2026-04-30 12:33:27 | INFO    | Training started — 7500 episodes, 50 max steps
+2026-04-30 12:33:33 | INFO    | Episode    50 | Reward:  -2274.4 | Loss: 69.3991 | Epsilon: 0.992 | Buffer:   1565 | Speed: 8.7 ep/s
+2026-04-30 12:33:41 | INFO    | Episode   100 | Reward:  -2310.7 | Loss: 71.6776 | Epsilon: 0.985 | Buffer:   3235 | Speed: 7.1 ep/s
+2026-04-30 12:33:49 | INFO    | Episode   150 | Reward:  -2307.6 | Loss: 71.4045 | Epsilon: 0.977 | Buffer:   4773 | Speed: 6.9 ep/s
+2026-04-30 12:33:58 | INFO    | Episode   200 | Reward:  -2234.8 | Loss: 70.4608 | Epsilon: 0.970 | Buffer:   6677 | Speed: 6.6 ep/s
+2026-04-30 12:34:05 | INFO    | Episode   250 | Reward:  -2271.4 | Loss: 68.7223 | Epsilon: 0.962 | Buffer:   8206 | Speed: 6.5 ep/s
+2026-04-30 12:34:13 | INFO    | Episode   300 | Reward:  -2443.3 | Loss: 67.1017 | Epsilon: 0.954 | Buffer:   9899 | Speed: 6.5 ep/s
+2026-04-30 12:34:21 | INFO    | Episode   350 | Reward:  -2409.3 | Loss: 68.5524 | Epsilon: 0.947 | Buffer:  11396 | Speed: 6.5 ep/s
+2026-04-30 12:34:32 | INFO    | Episode   400 | Reward:  -2293.1 | Loss: 68.5057 | Epsilon: 0.939 | Buffer:  13089 | Speed: 6.2 ep/s
+2026-04-30 12:34:40 | INFO    | Episode   450 | Reward:  -2266.9 | Loss: 67.0078 | Epsilon: 0.931 | Buffer:  14824 | Speed: 6.2 ep/s
+2026-04-30 12:34:49 | INFO    | Episode   500 | Reward:  -2312.1 | Loss: 66.1195 | Epsilon: 0.924 | Buffer:  16641 | Speed: 6.1 ep/s
+2026-04-30 12:34:51 | INFO    | EVAL @ 500 | Reward=-4716.3 +/- 743.1 | IS=$680.26 | vs TWAP: -3576.5
+2026-04-30 12:35:00 | INFO    | Episode   550 | Reward:  -2384.0 | Loss: 66.7494 | Epsilon: 0.916 | Buffer:  18157 | Speed: 6.0 ep/s
+2026-04-30 12:35:10 | INFO    | Episode   600 | Reward:  -2322.9 | Loss: 66.2337 | Epsilon: 0.909 | Buffer:  19855 | Speed: 5.9 ep/s
+2026-04-30 12:35:19 | INFO    | Episode   650 | Reward:  -2311.8 | Loss: 65.7237 | Epsilon: 0.901 | Buffer:  21472 | Speed: 5.8 ep/s
+2026-04-30 12:35:28 | INFO    | Episode   700 | Reward:  -2307.8 | Loss: 66.9557 | Epsilon: 0.893 | Buffer:  23209 | Speed: 5.8 ep/s
+2026-04-30 12:35:36 | INFO    | Episode   750 | Reward:  -2359.3 | Loss: 66.7041 | Epsilon: 0.886 | Buffer:  24820 | Speed: 5.8 ep/s
+2026-04-30 12:35:45 | INFO    | Episode   800 | Reward:  -2304.4 | Loss: 64.7307 | Epsilon: 0.878 | Buffer:  26698 | Speed: 5.8 ep/s
+2026-04-30 12:35:52 | INFO    | Episode   850 | Reward:  -2312.8 | Loss: 64.4740 | Epsilon: 0.871 | Buffer:  28242 | Speed: 5.8 ep/s
+2026-04-30 12:36:01 | INFO    | Episode   900 | Reward:  -2374.9 | Loss: 62.9004 | Epsilon: 0.863 | Buffer:  29977 | Speed: 5.8 ep/s
+2026-04-30 12:36:10 | INFO    | Episode   950 | Reward:  -2260.5 | Loss: 61.0688 | Epsilon: 0.855 | Buffer:  31845 | Speed: 5.8 ep/s
+2026-04-30 12:36:19 | INFO    | Episode  1000 | Reward:  -2401.7 | Loss: 62.2968 | Epsilon: 0.848 | Buffer:  33611 | Speed: 5.8 ep/s
+2026-04-30 12:36:21 | INFO    | EVAL @ 1000 | Reward=-4716.3 +/- 743.1 | IS=$680.26 | vs TWAP: -3576.5
+2026-04-30 12:36:30 | INFO    | Episode  1050 | Reward:  -2453.4 | Loss: 60.9833 | Epsilon: 0.840 | Buffer:  35416 | Speed: 5.7 ep/s
+2026-04-30 12:36:38 | INFO    | Episode  1100 | Reward:  -2364.4 | Loss: 59.6848 | Epsilon: 0.832 | Buffer:  37213 | Speed: 5.8 ep/s
+2026-04-30 12:36:46 | INFO    | Episode  1150 | Reward:  -2463.2 | Loss: 59.5514 | Epsilon: 0.825 | Buffer:  39016 | Speed: 5.8 ep/s
+2026-04-30 12:36:54 | INFO    | Episode  1200 | Reward:  -2384.4 | Loss: 57.6860 | Epsilon: 0.817 | Buffer:  40682 | Speed: 5.8 ep/s
+2026-04-30 12:37:05 | INFO    | Episode  1250 | Reward:  -2186.6 | Loss: 56.8439 | Epsilon: 0.810 | Buffer:  42183 | Speed: 5.7 ep/s
+2026-04-30 12:37:14 | INFO    | Episode  1300 | Reward:  -2232.4 | Loss: 57.1695 | Epsilon: 0.802 | Buffer:  43963 | Speed: 5.7 ep/s
+2026-04-30 12:37:22 | INFO    | Episode  1350 | Reward:  -2318.9 | Loss: 56.2292 | Epsilon: 0.794 | Buffer:  45595 | Speed: 5.7 ep/s
+2026-04-30 12:37:31 | INFO    | Episode  1400 | Reward:  -2312.2 | Loss: 57.1143 | Epsilon: 0.787 | Buffer:  47500 | Speed: 5.7 ep/s
+2026-04-30 12:37:40 | INFO    | Episode  1450 | Reward:  -2360.2 | Loss: 56.5595 | Epsilon: 0.779 | Buffer:  49200 | Speed: 5.7 ep/s
+2026-04-30 12:37:50 | INFO    | Episode  1500 | Reward:  -2301.9 | Loss: 53.0833 | Epsilon: 0.772 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:37:53 | INFO    | EVAL @ 1500 | Reward=-2659.3 +/- 336.7 | IS=$670.53 | vs TWAP: -1519.5
+2026-04-30 12:38:01 | INFO    | Episode  1550 | Reward:  -2272.9 | Loss: 52.6070 | Epsilon: 0.764 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:10 | INFO    | Episode  1600 | Reward:  -2242.4 | Loss: 53.7484 | Epsilon: 0.756 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:18 | INFO    | Episode  1650 | Reward:  -2330.3 | Loss: 52.4476 | Epsilon: 0.749 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:27 | INFO    | Episode  1700 | Reward:  -2349.2 | Loss: 52.1566 | Epsilon: 0.741 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:35 | INFO    | Episode  1750 | Reward:  -2261.3 | Loss: 50.7159 | Epsilon: 0.733 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:43 | INFO    | Episode  1800 | Reward:  -2360.4 | Loss: 49.2177 | Epsilon: 0.726 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:38:52 | INFO    | Episode  1850 | Reward:  -2369.5 | Loss: 50.5412 | Epsilon: 0.718 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:39:00 | INFO    | Episode  1900 | Reward:  -2413.0 | Loss: 50.6696 | Epsilon: 0.711 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:39:09 | INFO    | Episode  1950 | Reward:  -2341.3 | Loss: 48.1831 | Epsilon: 0.703 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:39:20 | INFO    | Episode  2000 | Reward:  -2267.7 | Loss: 46.5203 | Epsilon: 0.695 | Buffer:  50000 | Speed: 5.7 ep/s
+2026-04-30 12:39:22 | INFO    | EVAL @ 2000 | Reward=-4747.7 +/- 925.5 | IS=$783.88 | vs TWAP: -3607.9
+2026-04-30 12:39:31 | INFO    | Episode  2050 | Reward:  -2375.4 | Loss: 47.6828 | Epsilon: 0.688 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:39:41 | INFO    | Episode  2100 | Reward:  -2478.1 | Loss: 45.4204 | Epsilon: 0.680 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:39:50 | INFO    | Episode  2150 | Reward:  -2377.4 | Loss: 42.6895 | Epsilon: 0.673 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:39:58 | INFO    | Episode  2200 | Reward:  -2260.7 | Loss: 42.7396 | Epsilon: 0.665 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:07 | INFO    | Episode  2250 | Reward:  -2334.1 | Loss: 43.0625 | Epsilon: 0.657 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:16 | INFO    | Episode  2300 | Reward:  -2409.4 | Loss: 41.7824 | Epsilon: 0.650 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:28 | INFO    | Episode  2350 | Reward:  -2347.0 | Loss: 40.0118 | Epsilon: 0.642 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:38 | INFO    | Episode  2400 | Reward:  -2303.5 | Loss: 39.2300 | Epsilon: 0.634 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:48 | INFO    | Episode  2450 | Reward:  -2467.8 | Loss: 39.0685 | Epsilon: 0.627 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:57 | INFO    | Episode  2500 | Reward:  -2389.2 | Loss: 37.7193 | Epsilon: 0.619 | Buffer:  50000 | Speed: 5.6 ep/s
+2026-04-30 12:40:59 | INFO    | EVAL @ 2500 | Reward=-4077.7 +/- 1030.4 | IS=$969.34 | vs TWAP: -2937.9
+2026-04-30 12:41:09 | INFO    | Episode  2550 | Reward:  -2346.8 | Loss: 36.6437 | Epsilon: 0.612 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:41:18 | INFO    | Episode  2600 | Reward:  -2311.0 | Loss: 35.8812 | Epsilon: 0.604 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:41:27 | INFO    | Episode  2650 | Reward:  -2286.5 | Loss: 34.2001 | Epsilon: 0.596 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:41:38 | INFO    | Episode  2700 | Reward:  -2512.4 | Loss: 33.1131 | Epsilon: 0.589 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:41:47 | INFO    | Episode  2750 | Reward:  -2417.1 | Loss: 31.9901 | Epsilon: 0.581 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:41:56 | INFO    | Episode  2800 | Reward:  -2296.2 | Loss: 31.4847 | Epsilon: 0.574 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:04 | INFO    | Episode  2850 | Reward:  -2302.1 | Loss: 30.9360 | Epsilon: 0.566 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:13 | INFO    | Episode  2900 | Reward:  -2499.4 | Loss: 30.8930 | Epsilon: 0.558 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:21 | INFO    | Episode  2950 | Reward:  -2469.5 | Loss: 31.0268 | Epsilon: 0.551 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:30 | INFO    | Episode  3000 | Reward:  -2417.5 | Loss: 29.4734 | Epsilon: 0.543 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:32 | INFO    | EVAL @ 3000 | Reward=-2799.4 +/- 545.0 | IS=$811.70 | vs TWAP: -1659.7
+2026-04-30 12:42:44 | INFO    | Episode  3050 | Reward:  -2528.3 | Loss: 28.4756 | Epsilon: 0.535 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:42:53 | INFO    | Episode  3100 | Reward:  -2498.0 | Loss: 29.1521 | Epsilon: 0.528 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:43:03 | INFO    | Episode  3150 | Reward:  -2476.3 | Loss: 28.0227 | Epsilon: 0.520 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:43:14 | INFO    | Episode  3200 | Reward:  -2440.3 | Loss: 26.2804 | Epsilon: 0.513 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:43:25 | INFO    | Episode  3250 | Reward:  -2344.5 | Loss: 25.6713 | Epsilon: 0.505 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:43:35 | INFO    | Episode  3300 | Reward:  -2324.3 | Loss: 25.5267 | Epsilon: 0.497 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:43:45 | INFO    | Episode  3350 | Reward:  -2340.9 | Loss: 24.9640 | Epsilon: 0.490 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:43:55 | INFO    | Episode  3400 | Reward:  -2327.5 | Loss: 23.9240 | Epsilon: 0.482 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:05 | INFO    | Episode  3450 | Reward:  -2407.1 | Loss: 23.9330 | Epsilon: 0.475 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:15 | INFO    | Episode  3500 | Reward:  -2376.6 | Loss: 23.9421 | Epsilon: 0.467 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:18 | INFO    | EVAL @ 3500 | Reward=-3675.4 +/- 1001.2 | IS=$1053.67 | vs TWAP: -2535.7
+2026-04-30 12:44:28 | INFO    | Episode  3550 | Reward:  -2421.5 | Loss: 22.9559 | Epsilon: 0.459 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:38 | INFO    | Episode  3600 | Reward:  -2425.4 | Loss: 21.9840 | Epsilon: 0.452 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:48 | INFO    | Episode  3650 | Reward:  -2384.5 | Loss: 21.5256 | Epsilon: 0.444 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:44:56 | INFO    | Episode  3700 | Reward:  -2347.0 | Loss: 21.4092 | Epsilon: 0.436 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:05 | INFO    | Episode  3750 | Reward:  -2374.2 | Loss: 21.7492 | Epsilon: 0.429 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:14 | INFO    | Episode  3800 | Reward:  -2337.9 | Loss: 21.8302 | Epsilon: 0.421 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:24 | INFO    | Episode  3850 | Reward:  -2322.4 | Loss: 21.6330 | Epsilon: 0.414 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:33 | INFO    | Episode  3900 | Reward:  -2428.8 | Loss: 21.7882 | Epsilon: 0.406 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:44 | INFO    | Episode  3950 | Reward:  -2377.9 | Loss: 21.2434 | Epsilon: 0.398 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:54 | INFO    | Episode  4000 | Reward:  -2390.6 | Loss: 20.7339 | Epsilon: 0.391 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:45:57 | INFO    | EVAL @ 4000 | Reward=-3212.9 +/- 1216.3 | IS=$864.90 | vs TWAP: -2073.1
+2026-04-30 12:46:06 | INFO    | Episode  4050 | Reward:  -2421.3 | Loss: 20.2215 | Epsilon: 0.383 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:15 | INFO    | Episode  4100 | Reward:  -2312.5 | Loss: 19.6461 | Epsilon: 0.376 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:25 | INFO    | Episode  4150 | Reward:  -2282.1 | Loss: 19.6873 | Epsilon: 0.368 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:34 | INFO    | Episode  4200 | Reward:  -2334.0 | Loss: 19.7673 | Epsilon: 0.360 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:43 | INFO    | Episode  4250 | Reward:  -2377.7 | Loss: 19.8597 | Epsilon: 0.353 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:51 | INFO    | Episode  4300 | Reward:  -2348.6 | Loss: 19.2358 | Epsilon: 0.345 | Buffer:  50000 | Speed: 5.3 ep/s
+2026-04-30 12:46:59 | INFO    | Episode  4350 | Reward:  -2345.2 | Loss: 19.0340 | Epsilon: 0.337 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:07 | INFO    | Episode  4400 | Reward:  -2320.8 | Loss: 18.9045 | Epsilon: 0.330 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:16 | INFO    | Episode  4450 | Reward:  -2105.2 | Loss: 18.7455 | Epsilon: 0.322 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:23 | INFO    | Episode  4500 | Reward:  -2136.9 | Loss: 18.4465 | Epsilon: 0.315 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:25 | INFO    | EVAL @ 4500 | Reward=-1278.7 +/- 143.2 | IS=$1381.90 | vs TWAP: -138.9
+2026-04-30 12:47:33 | INFO    | Episode  4550 | Reward:  -2274.8 | Loss: 17.5319 | Epsilon: 0.307 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:40 | INFO    | Episode  4600 | Reward:  -2184.5 | Loss: 17.8651 | Epsilon: 0.299 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:48 | INFO    | Episode  4650 | Reward:  -2037.3 | Loss: 18.0016 | Epsilon: 0.292 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:47:56 | INFO    | Episode  4700 | Reward:  -1975.8 | Loss: 17.3395 | Epsilon: 0.284 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:04 | INFO    | Episode  4750 | Reward:  -1980.4 | Loss: 17.6920 | Epsilon: 0.277 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:12 | INFO    | Episode  4800 | Reward:  -1963.0 | Loss: 17.8763 | Epsilon: 0.269 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:20 | INFO    | Episode  4850 | Reward:  -1914.9 | Loss: 16.7811 | Epsilon: 0.261 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:28 | INFO    | Episode  4900 | Reward:  -1867.1 | Loss: 16.3498 | Epsilon: 0.254 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:36 | INFO    | Episode  4950 | Reward:  -1903.0 | Loss: 16.3634 | Epsilon: 0.246 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:46 | INFO    | Episode  5000 | Reward:  -1878.6 | Loss: 15.8094 | Epsilon: 0.238 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:48:48 | INFO    | EVAL @ 5000 | Reward=-1269.5 +/- 152.8 | IS=$1334.71 | vs TWAP: -129.7
+2026-04-30 12:48:57 | INFO    | Episode  5050 | Reward:  -1891.8 | Loss: 15.4581 | Epsilon: 0.231 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:06 | INFO    | Episode  5100 | Reward:  -1994.9 | Loss: 14.9157 | Epsilon: 0.223 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:15 | INFO    | Episode  5150 | Reward:  -1877.0 | Loss: 14.1477 | Epsilon: 0.216 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:24 | INFO    | Episode  5200 | Reward:  -1857.9 | Loss: 13.9922 | Epsilon: 0.208 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:33 | INFO    | Episode  5250 | Reward:  -1989.9 | Loss: 14.0436 | Epsilon: 0.200 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:42 | INFO    | Episode  5300 | Reward:  -1943.5 | Loss: 13.9287 | Epsilon: 0.193 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:49:51 | INFO    | Episode  5350 | Reward:  -1960.5 | Loss: 13.3623 | Epsilon: 0.185 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:00 | INFO    | Episode  5400 | Reward:  -1877.3 | Loss: 12.6856 | Epsilon: 0.178 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:09 | INFO    | Episode  5450 | Reward:  -1714.0 | Loss: 12.4453 | Epsilon: 0.170 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:19 | INFO    | Episode  5500 | Reward:  -1754.4 | Loss: 12.1452 | Epsilon: 0.162 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:21 | INFO    | EVAL @ 5500 | Reward=-1195.0 +/- 140.2 | IS=$1307.02 | vs TWAP: -55.2
+2026-04-30 12:50:31 | INFO    | Episode  5550 | Reward:  -1834.0 | Loss: 11.5770 | Epsilon: 0.155 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:40 | INFO    | Episode  5600 | Reward:  -1801.2 | Loss: 11.3823 | Epsilon: 0.147 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:50 | INFO    | Episode  5650 | Reward:  -1797.8 | Loss: 11.3178 | Epsilon: 0.139 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:50:58 | INFO    | Episode  5700 | Reward:  -1865.8 | Loss: 11.2940 | Epsilon: 0.132 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:07 | INFO    | Episode  5750 | Reward:  -1801.3 | Loss: 11.3575 | Epsilon: 0.124 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:15 | INFO    | Episode  5800 | Reward:  -1741.1 | Loss: 11.2924 | Epsilon: 0.117 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:23 | INFO    | Episode  5850 | Reward:  -1831.8 | Loss: 11.1685 | Epsilon: 0.109 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:31 | INFO    | Episode  5900 | Reward:  -1845.4 | Loss: 11.0880 | Epsilon: 0.101 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:40 | INFO    | Episode  5950 | Reward:  -1714.7 | Loss: 10.9594 | Epsilon: 0.094 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:51:48 | INFO    | Episode  6000 | Reward:  -1664.4 | Loss: 10.7684 | Epsilon: 0.086 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:51:50 | INFO    | EVAL @ 6000 | Reward=-1159.2 +/- 108.2 | IS=$1086.98 | vs TWAP: -19.4
+2026-04-30 12:51:58 | INFO    | Episode  6050 | Reward:  -1626.1 | Loss: 10.6415 | Epsilon: 0.079 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:52:06 | INFO    | Episode  6100 | Reward:  -1584.1 | Loss: 10.8031 | Epsilon: 0.071 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:15 | INFO    | Episode  6150 | Reward:  -1589.6 | Loss: 11.0446 | Epsilon: 0.063 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:23 | INFO    | Episode  6200 | Reward:  -1605.9 | Loss: 10.8190 | Epsilon: 0.056 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:32 | INFO    | Episode  6250 | Reward:  -1602.9 | Loss: 10.5451 | Epsilon: 0.048 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:41 | INFO    | Episode  6300 | Reward:  -1533.4 | Loss: 10.5136 | Epsilon: 0.040 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:50 | INFO    | Episode  6350 | Reward:  -1547.8 | Loss: 10.4934 | Epsilon: 0.033 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:52:58 | INFO    | Episode  6400 | Reward:  -1523.4 | Loss: 10.2836 | Epsilon: 0.025 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:07 | INFO    | Episode  6450 | Reward:  -1395.3 | Loss: 10.1560 | Epsilon: 0.018 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:15 | INFO    | Episode  6500 | Reward:  -1326.1 | Loss: 10.1529 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:18 | INFO    | EVAL @ 6500 | Reward=-1096.6 +/- 102.6 | IS=$1342.82 | vs TWAP: +43.2
+2026-04-30 12:53:27 | INFO    | Episode  6550 | Reward:  -1290.1 | Loss: 10.0939 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:36 | INFO    | Episode  6600 | Reward:  -1254.7 | Loss: 9.7532 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:44 | INFO    | Episode  6650 | Reward:  -1236.7 | Loss: 9.5848 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:53:53 | INFO    | Episode  6700 | Reward:  -1254.0 | Loss: 9.6287 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:01 | INFO    | Episode  6750 | Reward:  -1272.8 | Loss: 9.5713 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:10 | INFO    | Episode  6800 | Reward:  -1243.2 | Loss: 9.4895 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:19 | INFO    | Episode  6850 | Reward:  -1194.2 | Loss: 9.3919 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:28 | INFO    | Episode  6900 | Reward:  -1158.8 | Loss: 9.2986 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:38 | INFO    | Episode  6950 | Reward:  -1123.3 | Loss: 9.2367 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:48 | INFO    | Episode  7000 | Reward:  -1101.1 | Loss: 9.2854 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:54:50 | INFO    | EVAL @ 7000 | Reward=-948.3 +/- 113.1 | IS=$1758.71 | vs TWAP: +191.5
+2026-04-30 12:55:00 | INFO    | Episode  7050 | Reward:  -1062.5 | Loss: 9.1464 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.5 ep/s
+2026-04-30 12:55:10 | INFO    | Episode  7100 | Reward:  -1041.3 | Loss: 8.8021 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:55:20 | INFO    | Episode  7150 | Reward:  -1092.3 | Loss: 8.6439 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:55:30 | INFO    | Episode  7200 | Reward:  -1070.0 | Loss: 8.4395 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:55:40 | INFO    | Episode  7250 | Reward:  -1008.1 | Loss: 8.1030 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:55:49 | INFO    | Episode  7300 | Reward:  -1059.7 | Loss: 7.8502 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:55:59 | INFO    | Episode  7350 | Reward:  -1092.9 | Loss: 7.5368 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:56:09 | INFO    | Episode  7400 | Reward:  -1081.1 | Loss: 7.3044 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:56:18 | INFO    | Episode  7450 | Reward:  -1093.0 | Loss: 7.0702 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:56:28 | INFO    | Episode  7500 | Reward:  -1084.5 | Loss: 6.8303 | Epsilon: 0.010 | Buffer:  50000 | Speed: 5.4 ep/s
+2026-04-30 12:56:30 | INFO    | EVAL @ 7500 | Reward=-910.7 +/- 55.9 | IS=$1617.28 | vs TWAP: +229.1
+2026-04-30 12:56:42 | INFO    | Final eval | Reward=-913.1 +/- 78.2 | IS=$1432.52
+2026-04-30 14:59:08 | INFO    | Training started — 7500 episodes, 50 max steps
+2026-04-30 14:59:14 | INFO    | Episode    50 | Reward:  -2408.1 | Loss: 70.5804 | Epsilon: 0.992 | Buffer:   1675 | Speed: 8.2 ep/s
+2026-04-30 14:59:21 | INFO    | Episode   100 | Reward:  -2337.3 | Loss: 67.9386 | Epsilon: 0.985 | Buffer:   3461 | Speed: 7.7 ep/s
+2026-04-30 14:59:28 | INFO    | Episode   150 | Reward:  -2282.3 | Loss: 67.6795 | Epsilon: 0.977 | Buffer:   5257 | Speed: 7.4 ep/s
+2026-04-30 14:59:36 | INFO    | Episode   200 | Reward:  -2260.7 | Loss: 66.9055 | Epsilon: 0.970 | Buffer:   7183 | Speed: 7.2 ep/s
+2026-04-30 14:59:43 | INFO    | Episode   250 | Reward:  -2280.0 | Loss: 63.0855 | Epsilon: 0.962 | Buffer:   8939 | Speed: 7.2 ep/s
+2026-04-30 14:59:50 | INFO    | Episode   300 | Reward:  -2458.4 | Loss: 62.3392 | Epsilon: 0.954 | Buffer:  10631 | Speed: 7.1 ep/s
+2026-04-30 14:59:58 | INFO    | Episode   350 | Reward:  -2433.9 | Loss: 64.4323 | Epsilon: 0.947 | Buffer:  12453 | Speed: 7.1 ep/s
+2026-04-30 15:00:05 | INFO    | Episode   400 | Reward:  -2295.8 | Loss: 64.0624 | Epsilon: 0.939 | Buffer:  14262 | Speed: 7.1 ep/s
+2026-04-30 15:00:11 | INFO    | Episode   450 | Reward:  -2246.0 | Loss: 64.1078 | Epsilon: 0.931 | Buffer:  15685 | Speed: 7.2 ep/s
+2026-04-30 15:00:18 | INFO    | Episode   500 | Reward:  -2347.8 | Loss: 65.5909 | Epsilon: 0.924 | Buffer:  17320 | Speed: 7.1 ep/s
+2026-04-30 15:00:21 | INFO    | EVAL @ 500 | Reward=-3670.3 +/- 742.9 | IS=$680.26 | vs TWAP: -2719.3
+2026-04-30 15:00:27 | INFO    | Episode   550 | Reward:  -2366.0 | Loss: 65.5849 | Epsilon: 0.916 | Buffer:  18731 | Speed: 7.0 ep/s
+2026-04-30 15:00:33 | INFO    | Episode   600 | Reward:  -2292.3 | Loss: 64.3988 | Epsilon: 0.909 | Buffer:  20185 | Speed: 7.1 ep/s
+2026-04-30 15:00:40 | INFO    | Episode   650 | Reward:  -2336.1 | Loss: 65.3280 | Epsilon: 0.901 | Buffer:  21723 | Speed: 7.1 ep/s
+2026-04-30 15:00:47 | INFO    | Episode   700 | Reward:  -2299.0 | Loss: 67.3490 | Epsilon: 0.893 | Buffer:  23399 | Speed: 7.1 ep/s
+2026-04-30 15:00:54 | INFO    | Episode   750 | Reward:  -2303.3 | Loss: 64.8862 | Epsilon: 0.886 | Buffer:  25172 | Speed: 7.1 ep/s
+2026-04-30 15:01:01 | INFO    | Episode   800 | Reward:  -2340.4 | Loss: 62.4964 | Epsilon: 0.878 | Buffer:  26828 | Speed: 7.1 ep/s
+2026-04-30 15:01:08 | INFO    | Episode   850 | Reward:  -2451.8 | Loss: 63.2743 | Epsilon: 0.871 | Buffer:  28530 | Speed: 7.1 ep/s
+2026-04-30 15:01:14 | INFO    | Episode   900 | Reward:  -2525.6 | Loss: 61.9804 | Epsilon: 0.863 | Buffer:  29989 | Speed: 7.2 ep/s
+2026-04-30 15:01:21 | INFO    | Episode   950 | Reward:  -2325.3 | Loss: 62.3316 | Epsilon: 0.855 | Buffer:  31709 | Speed: 7.2 ep/s
+2026-04-30 15:01:27 | INFO    | Episode  1000 | Reward:  -2309.9 | Loss: 65.4071 | Epsilon: 0.848 | Buffer:  33205 | Speed: 7.2 ep/s
+2026-04-30 15:01:29 | INFO    | EVAL @ 1000 | Reward=-3670.3 +/- 742.9 | IS=$680.26 | vs TWAP: -2719.3
+2026-04-30 15:01:36 | INFO    | Episode  1050 | Reward:  -2445.1 | Loss: 65.1323 | Epsilon: 0.840 | Buffer:  34853 | Speed: 7.1 ep/s
+2026-04-30 15:01:42 | INFO    | Episode  1100 | Reward:  -2397.9 | Loss: 62.2759 | Epsilon: 0.832 | Buffer:  36473 | Speed: 7.1 ep/s
+2026-04-30 15:01:50 | INFO    | Episode  1150 | Reward:  -2404.7 | Loss: 61.4257 | Epsilon: 0.825 | Buffer:  38015 | Speed: 7.1 ep/s
+2026-04-30 15:01:57 | INFO    | Episode  1200 | Reward:  -2323.9 | Loss: 61.2859 | Epsilon: 0.817 | Buffer:  39622 | Speed: 7.1 ep/s
+2026-04-30 15:02:04 | INFO    | Episode  1250 | Reward:  -2132.6 | Loss: 60.1991 | Epsilon: 0.810 | Buffer:  41442 | Speed: 7.1 ep/s
+2026-04-30 15:02:11 | INFO    | Episode  1300 | Reward:  -2223.6 | Loss: 58.5176 | Epsilon: 0.802 | Buffer:  43205 | Speed: 7.1 ep/s
+2026-04-30 15:02:19 | INFO    | Episode  1350 | Reward:  -2353.1 | Loss: 57.1227 | Epsilon: 0.794 | Buffer:  44981 | Speed: 7.1 ep/s
+2026-04-30 15:02:26 | INFO    | Episode  1400 | Reward:  -2303.7 | Loss: 57.2408 | Epsilon: 0.787 | Buffer:  46663 | Speed: 7.1 ep/s
+2026-04-30 15:02:34 | INFO    | Episode  1450 | Reward:  -2304.6 | Loss: 56.5658 | Epsilon: 0.779 | Buffer:  48577 | Speed: 7.1 ep/s
+2026-04-30 15:02:42 | INFO    | Episode  1500 | Reward:  -2258.0 | Loss: 55.5647 | Epsilon: 0.772 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:02:44 | INFO    | EVAL @ 1500 | Reward=-3670.3 +/- 742.9 | IS=$680.26 | vs TWAP: -2719.3
+2026-04-30 15:02:51 | INFO    | Episode  1550 | Reward:  -2233.3 | Loss: 53.9743 | Epsilon: 0.764 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:02:57 | INFO    | Episode  1600 | Reward:  -2217.8 | Loss: 52.4582 | Epsilon: 0.756 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:04 | INFO    | Episode  1650 | Reward:  -2270.3 | Loss: 52.4230 | Epsilon: 0.749 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:11 | INFO    | Episode  1700 | Reward:  -2253.7 | Loss: 52.0798 | Epsilon: 0.741 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:18 | INFO    | Episode  1750 | Reward:  -2116.0 | Loss: 51.9191 | Epsilon: 0.733 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:25 | INFO    | Episode  1800 | Reward:  -2291.8 | Loss: 51.1948 | Epsilon: 0.726 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:31 | INFO    | Episode  1850 | Reward:  -2471.1 | Loss: 49.7447 | Epsilon: 0.718 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:38 | INFO    | Episode  1900 | Reward:  -2434.0 | Loss: 50.1164 | Epsilon: 0.711 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:03:45 | INFO    | Episode  1950 | Reward:  -2334.7 | Loss: 49.2052 | Epsilon: 0.703 | Buffer:  50000 | Speed: 7.1 ep/s
+2026-04-30 15:03:51 | INFO    | Episode  2000 | Reward:  -2392.1 | Loss: 46.5756 | Epsilon: 0.695 | Buffer:  50000 | Speed: 7.1 ep/s
+2026-04-30 15:03:54 | INFO    | EVAL @ 2000 | Reward=-3670.3 +/- 742.9 | IS=$680.26 | vs TWAP: -2719.3
+2026-04-30 15:04:00 | INFO    | Episode  2050 | Reward:  -2458.4 | Loss: 45.8516 | Epsilon: 0.688 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:07 | INFO    | Episode  2100 | Reward:  -2380.3 | Loss: 44.7414 | Epsilon: 0.680 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:16 | INFO    | Episode  2150 | Reward:  -2307.1 | Loss: 43.5348 | Epsilon: 0.673 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:23 | INFO    | Episode  2200 | Reward:  -2238.0 | Loss: 43.4522 | Epsilon: 0.665 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:30 | INFO    | Episode  2250 | Reward:  -2364.1 | Loss: 43.3053 | Epsilon: 0.657 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:37 | INFO    | Episode  2300 | Reward:  -2471.0 | Loss: 41.7238 | Epsilon: 0.650 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:44 | INFO    | Episode  2350 | Reward:  -2459.5 | Loss: 39.3202 | Epsilon: 0.642 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:51 | INFO    | Episode  2400 | Reward:  -2418.7 | Loss: 38.1289 | Epsilon: 0.634 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:04:58 | INFO    | Episode  2450 | Reward:  -2257.7 | Loss: 37.4883 | Epsilon: 0.627 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:05:06 | INFO    | Episode  2500 | Reward:  -2212.4 | Loss: 36.4525 | Epsilon: 0.619 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:05:08 | INFO    | EVAL @ 2500 | Reward=-3670.3 +/- 742.9 | IS=$680.26 | vs TWAP: -2719.3
+2026-04-30 15:05:15 | INFO    | Episode  2550 | Reward:  -2309.0 | Loss: 35.2208 | Epsilon: 0.612 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:05:22 | INFO    | Episode  2600 | Reward:  -2316.5 | Loss: 33.9440 | Epsilon: 0.604 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:05:29 | INFO    | Episode  2650 | Reward:  -2408.5 | Loss: 32.8975 | Epsilon: 0.596 | Buffer:  50000 | Speed: 7.0 ep/s
+2026-04-30 15:05:38 | INFO    | Episode  2700 | Reward:  -2511.5 | Loss: 33.2093 | Epsilon: 0.589 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:05:46 | INFO    | Episode  2750 | Reward:  -2450.3 | Loss: 33.0113 | Epsilon: 0.581 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:05:53 | INFO    | Episode  2800 | Reward:  -2347.7 | Loss: 32.1671 | Epsilon: 0.574 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:06:01 | INFO    | Episode  2850 | Reward:  -2280.5 | Loss: 31.2094 | Epsilon: 0.566 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:06:08 | INFO    | Episode  2900 | Reward:  -2385.9 | Loss: 30.2504 | Epsilon: 0.558 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:06:16 | INFO    | Episode  2950 | Reward:  -2433.6 | Loss: 30.2044 | Epsilon: 0.551 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:06:24 | INFO    | Episode  3000 | Reward:  -2393.0 | Loss: 30.4181 | Epsilon: 0.543 | Buffer:  50000 | Speed: 6.9 ep/s
+2026-04-30 15:06:26 | INFO    | EVAL @ 3000 | Reward=-3615.3 +/- 823.8 | IS=$567.62 | vs TWAP: -2664.4
+2026-04-30 15:06:34 | INFO    | Episode  3050 | Reward:  -2438.2 | Loss: 30.3375 | Epsilon: 0.535 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:06:42 | INFO    | Episode  3100 | Reward:  -2409.3 | Loss: 29.0434 | Epsilon: 0.528 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:06:50 | INFO    | Episode  3150 | Reward:  -2419.6 | Loss: 28.1229 | Epsilon: 0.520 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:06:57 | INFO    | Episode  3200 | Reward:  -2434.7 | Loss: 27.8693 | Epsilon: 0.513 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:05 | INFO    | Episode  3250 | Reward:  -2303.3 | Loss: 26.7087 | Epsilon: 0.505 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:13 | INFO    | Episode  3300 | Reward:  -2405.2 | Loss: 25.4959 | Epsilon: 0.497 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:21 | INFO    | Episode  3350 | Reward:  -2481.1 | Loss: 24.9854 | Epsilon: 0.490 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:29 | INFO    | Episode  3400 | Reward:  -2258.8 | Loss: 24.3588 | Epsilon: 0.482 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:36 | INFO    | Episode  3450 | Reward:  -2308.2 | Loss: 23.8298 | Epsilon: 0.475 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:44 | INFO    | Episode  3500 | Reward:  -2419.3 | Loss: 23.6952 | Epsilon: 0.467 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:07:46 | INFO    | EVAL @ 3500 | Reward=-2942.2 +/- 938.9 | IS=$863.97 | vs TWAP: -1991.3
+2026-04-30 15:07:53 | INFO    | Episode  3550 | Reward:  -2422.1 | Loss: 22.8395 | Epsilon: 0.459 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:08:01 | INFO    | Episode  3600 | Reward:  -2332.2 | Loss: 22.5835 | Epsilon: 0.452 | Buffer:  50000 | Speed: 6.8 ep/s
+2026-04-30 15:08:09 | INFO    | Episode  3650 | Reward:  -2418.8 | Loss: 22.6031 | Epsilon: 0.444 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:17 | INFO    | Episode  3700 | Reward:  -2430.6 | Loss: 22.2635 | Epsilon: 0.436 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:25 | INFO    | Episode  3750 | Reward:  -2323.6 | Loss: 21.4769 | Epsilon: 0.429 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:34 | INFO    | Episode  3800 | Reward:  -2338.2 | Loss: 20.4435 | Epsilon: 0.421 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:43 | INFO    | Episode  3850 | Reward:  -2234.1 | Loss: 20.5713 | Epsilon: 0.414 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:51 | INFO    | Episode  3900 | Reward:  -2235.0 | Loss: 20.2532 | Epsilon: 0.406 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:08:59 | INFO    | Episode  3950 | Reward:  -2344.0 | Loss: 19.9843 | Epsilon: 0.398 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:09:07 | INFO    | Episode  4000 | Reward:  -2437.2 | Loss: 19.8775 | Epsilon: 0.391 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:09:09 | INFO    | EVAL @ 4000 | Reward=-2490.3 +/- 1139.6 | IS=$644.78 | vs TWAP: -1539.4
+2026-04-30 15:09:17 | INFO    | Episode  4050 | Reward:  -2371.4 | Loss: 19.4033 | Epsilon: 0.383 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:09:25 | INFO    | Episode  4100 | Reward:  -2274.6 | Loss: 19.2218 | Epsilon: 0.376 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:09:32 | INFO    | Episode  4150 | Reward:  -2239.8 | Loss: 18.9806 | Epsilon: 0.368 | Buffer:  50000 | Speed: 6.7 ep/s
+2026-04-30 15:09:40 | INFO    | Episode  4200 | Reward:  -2193.6 | Loss: 18.7982 | Epsilon: 0.360 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:09:48 | INFO    | Episode  4250 | Reward:  -2216.7 | Loss: 18.8758 | Epsilon: 0.353 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:09:57 | INFO    | Episode  4300 | Reward:  -2268.8 | Loss: 18.5870 | Epsilon: 0.345 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:05 | INFO    | Episode  4350 | Reward:  -2339.3 | Loss: 18.0160 | Epsilon: 0.337 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:13 | INFO    | Episode  4400 | Reward:  -2404.2 | Loss: 17.8203 | Epsilon: 0.330 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:21 | INFO    | Episode  4450 | Reward:  -2300.8 | Loss: 17.4981 | Epsilon: 0.322 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:29 | INFO    | Episode  4500 | Reward:  -2385.4 | Loss: 17.3346 | Epsilon: 0.315 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:31 | INFO    | EVAL @ 4500 | Reward=-2948.1 +/- 1094.4 | IS=$662.43 | vs TWAP: -1997.1
+2026-04-30 15:10:39 | INFO    | Episode  4550 | Reward:  -2501.8 | Loss: 17.4478 | Epsilon: 0.307 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:48 | INFO    | Episode  4600 | Reward:  -2344.1 | Loss: 17.1527 | Epsilon: 0.299 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:10:56 | INFO    | Episode  4650 | Reward:  -2324.6 | Loss: 16.7081 | Epsilon: 0.292 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:11:04 | INFO    | Episode  4700 | Reward:  -2442.4 | Loss: 17.0560 | Epsilon: 0.284 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:11:12 | INFO    | Episode  4750 | Reward:  -2378.6 | Loss: 16.9140 | Epsilon: 0.277 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:11:20 | INFO    | Episode  4800 | Reward:  -2319.2 | Loss: 16.5602 | Epsilon: 0.269 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:11:28 | INFO    | Episode  4850 | Reward:  -2370.7 | Loss: 16.6742 | Epsilon: 0.261 | Buffer:  50000 | Speed: 6.6 ep/s
+2026-04-30 15:11:36 | INFO    | Episode  4900 | Reward:  -2296.3 | Loss: 16.5171 | Epsilon: 0.254 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:11:45 | INFO    | Episode  4950 | Reward:  -2287.1 | Loss: 16.3866 | Epsilon: 0.246 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:11:53 | INFO    | Episode  5000 | Reward:  -2370.0 | Loss: 16.0898 | Epsilon: 0.238 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:11:55 | INFO    | EVAL @ 5000 | Reward=-3444.5 +/- 983.5 | IS=$593.89 | vs TWAP: -2493.6
+2026-04-30 15:12:03 | INFO    | Episode  5050 | Reward:  -2366.3 | Loss: 16.2087 | Epsilon: 0.231 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:11 | INFO    | Episode  5100 | Reward:  -2500.7 | Loss: 16.4924 | Epsilon: 0.223 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:19 | INFO    | Episode  5150 | Reward:  -2526.8 | Loss: 16.9946 | Epsilon: 0.216 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:27 | INFO    | Episode  5200 | Reward:  -2259.5 | Loss: 17.5647 | Epsilon: 0.208 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:36 | INFO    | Episode  5250 | Reward:  -2210.0 | Loss: 17.1974 | Epsilon: 0.200 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:44 | INFO    | Episode  5300 | Reward:  -2385.7 | Loss: 16.4628 | Epsilon: 0.193 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:12:52 | INFO    | Episode  5350 | Reward:  -2369.7 | Loss: 16.1592 | Epsilon: 0.185 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:00 | INFO    | Episode  5400 | Reward:  -2195.6 | Loss: 16.6282 | Epsilon: 0.178 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:08 | INFO    | Episode  5450 | Reward:  -2224.8 | Loss: 17.2289 | Epsilon: 0.170 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:16 | INFO    | Episode  5500 | Reward:  -2248.5 | Loss: 16.7755 | Epsilon: 0.162 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:18 | INFO    | EVAL @ 5500 | Reward=-3139.7 +/- 1267.6 | IS=$667.15 | vs TWAP: -2188.8
+2026-04-30 15:13:27 | INFO    | Episode  5550 | Reward:  -2243.7 | Loss: 16.3365 | Epsilon: 0.155 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:35 | INFO    | Episode  5600 | Reward:  -2308.4 | Loss: 16.9484 | Epsilon: 0.147 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:44 | INFO    | Episode  5650 | Reward:  -2343.3 | Loss: 18.5657 | Epsilon: 0.139 | Buffer:  50000 | Speed: 6.5 ep/s
+2026-04-30 15:13:53 | INFO    | Episode  5700 | Reward:  -2275.5 | Loss: 18.2873 | Epsilon: 0.132 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:02 | INFO    | Episode  5750 | Reward:  -2288.6 | Loss: 16.7818 | Epsilon: 0.124 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:10 | INFO    | Episode  5800 | Reward:  -2504.7 | Loss: 16.8637 | Epsilon: 0.117 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:19 | INFO    | Episode  5850 | Reward:  -2316.9 | Loss: 17.0311 | Epsilon: 0.109 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:28 | INFO    | Episode  5900 | Reward:  -2154.2 | Loss: 17.1280 | Epsilon: 0.101 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:37 | INFO    | Episode  5950 | Reward:  -2129.6 | Loss: 16.8180 | Epsilon: 0.094 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:46 | INFO    | Episode  6000 | Reward:  -1894.2 | Loss: 16.6265 | Epsilon: 0.086 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:14:48 | INFO    | EVAL @ 6000 | Reward=-1005.1 +/- 198.5 | IS=$865.93 | vs TWAP: -54.2
+2026-04-30 15:14:57 | INFO    | Episode  6050 | Reward:  -1784.3 | Loss: 17.1426 | Epsilon: 0.079 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:05 | INFO    | Episode  6100 | Reward:  -1809.3 | Loss: 16.9008 | Epsilon: 0.071 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:13 | INFO    | Episode  6150 | Reward:  -1831.2 | Loss: 16.2051 | Epsilon: 0.063 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:22 | INFO    | Episode  6200 | Reward:  -1657.5 | Loss: 16.3993 | Epsilon: 0.056 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:31 | INFO    | Episode  6250 | Reward:  -1546.4 | Loss: 16.5122 | Epsilon: 0.048 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:40 | INFO    | Episode  6300 | Reward:  -1540.1 | Loss: 16.0173 | Epsilon: 0.040 | Buffer:  50000 | Speed: 6.4 ep/s
+2026-04-30 15:15:50 | INFO    | Episode  6350 | Reward:  -1488.5 | Loss: 15.9433 | Epsilon: 0.033 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:15:59 | INFO    | Episode  6400 | Reward:  -1410.0 | Loss: 16.0898 | Epsilon: 0.025 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:08 | INFO    | Episode  6450 | Reward:  -1360.8 | Loss: 15.6970 | Epsilon: 0.018 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:17 | INFO    | Episode  6500 | Reward:  -1319.4 | Loss: 15.3085 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:19 | INFO    | EVAL @ 6500 | Reward=-945.8 +/- 104.8 | IS=$1149.12 | vs TWAP: +5.1
+2026-04-30 15:16:27 | INFO    | Episode  6550 | Reward:  -1266.8 | Loss: 15.1561 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:36 | INFO    | Episode  6600 | Reward:  -1302.0 | Loss: 14.6896 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:44 | INFO    | Episode  6650 | Reward:  -1283.6 | Loss: 14.2686 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:16:53 | INFO    | Episode  6700 | Reward:  -1245.1 | Loss: 13.5092 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:01 | INFO    | Episode  6750 | Reward:  -1211.3 | Loss: 12.8031 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:10 | INFO    | Episode  6800 | Reward:  -1199.1 | Loss: 12.4280 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:18 | INFO    | Episode  6850 | Reward:  -1203.2 | Loss: 11.7409 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:27 | INFO    | Episode  6900 | Reward:  -1161.4 | Loss: 11.0290 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:35 | INFO    | Episode  6950 | Reward:  -1081.7 | Loss: 10.6769 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:43 | INFO    | Episode  7000 | Reward:  -1010.7 | Loss: 10.3973 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:17:46 | INFO    | EVAL @ 7000 | Reward=-857.2 +/- 72.1 | IS=$1355.84 | vs TWAP: +93.8
+2026-04-30 15:17:54 | INFO    | Episode  7050 | Reward:  -1000.6 | Loss: 9.9533 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:18:03 | INFO    | Episode  7100 | Reward:  -1001.6 | Loss: 9.6286 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:18:11 | INFO    | Episode  7150 | Reward:  -1014.8 | Loss: 9.3334 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:18:20 | INFO    | Episode  7200 | Reward:  -1069.3 | Loss: 9.2276 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.3 ep/s
+2026-04-30 15:18:28 | INFO    | Episode  7250 | Reward:  -1117.1 | Loss: 9.0549 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:18:39 | INFO    | Episode  7300 | Reward:  -1062.7 | Loss: 8.8225 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:18:58 | INFO    | Episode  7350 | Reward:  -1019.1 | Loss: 8.5734 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:19:10 | INFO    | Episode  7400 | Reward:  -1066.7 | Loss: 8.3640 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:19:18 | INFO    | Episode  7450 | Reward:  -1058.3 | Loss: 8.2280 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:19:26 | INFO    | Episode  7500 | Reward:  -1028.5 | Loss: 8.0667 | Epsilon: 0.010 | Buffer:  50000 | Speed: 6.2 ep/s
+2026-04-30 15:19:28 | INFO    | EVAL @ 7500 | Reward=-834.3 +/- 76.3 | IS=$1373.24 | vs TWAP: +116.6
+2026-04-30 15:19:38 | INFO    | Final eval | Reward=-856.5 +/- 85.3 | IS=$1446.05
