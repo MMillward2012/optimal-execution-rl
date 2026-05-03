@@ -29,7 +29,7 @@ For a short description of what each file does, see [`FILE_GUIDE.md`](FILE_GUIDE
 
 Under idealised Almgren-Chriss conditions, the DQN agent recovers the optimal trading strategy.
 
-<img src="runs/ac_conditions_high_risk/ac_conditions_high_risk/ac_trajectories.png" alt="AC trajectories" width="55%">
+<img src="runs/ac_conditions_high_risk/ac_trajectories.png" alt="AC trajectories" width="55%">
 
 ### Inventory trajectories under liquidity regimes
 
